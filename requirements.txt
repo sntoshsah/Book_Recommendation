@@ -1,0 +1,8 @@
+scikit-learn
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+fastapi[standard]
+sqlalchemy
